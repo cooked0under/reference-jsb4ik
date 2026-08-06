@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cooked0under.github.io/reference-jsb4ik/sitemap.xml
